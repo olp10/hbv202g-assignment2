@@ -1,3 +1,3 @@
-HELLO WORLD!
-Hello!
-HOLA!
+HELLO WORLD
+Hello
+HOLA
